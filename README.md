@@ -11,7 +11,7 @@ Um aplicativo simples em **React + Vite** que gera nomes de super-heróis aleat�
 - Remover heróis individualmente.
 - Interface simples e responsiva com estilo moderno.
 
----
+
 
 ## Tecnologias
 
@@ -20,7 +20,7 @@ Um aplicativo simples em **React + Vite** que gera nomes de super-heróis aleat�
 - **JavaScript** – Lógica de geração de nomes e manipulação de estado.
 - **CSS** – Estilos customizados e responsivos.
 
----
+
 
 
 ## Estrutura do Projeto
@@ -40,7 +40,7 @@ src/
 ├─ index.css # Estilos globais
 └─ App.css # Estilos do app
 
-```
+
 
 ## Como Rodar
 
