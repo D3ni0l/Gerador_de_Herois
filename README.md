@@ -44,7 +44,7 @@ src/
 
 1. Clone o repositório:
 git clone <url-do-repo>
-cd nome-do-projeto
+cd Gerador_de_Herois
 
 2. Instale as dependências:
 npm install
