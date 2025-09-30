@@ -1,6 +1,6 @@
 # Gerador de Nomes de Super-Heróis 🦸
 
-Um aplicativo simples em **React + Vite** que gera nomes de super-heróis aleatórios. Salva os nomes gerados no **localStorage**, permitindo manter sua lista mesmo após fechar o navegador.
+Um aplicativo simples em **React + Vite** que gera nomes de super-heróis aleatórios. 
 
 ---
 
