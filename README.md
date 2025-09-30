@@ -89,7 +89,6 @@ const sufixos = [
 
 A cada clique no botão “Gerar Herói”, o app escolhe aleatoriamente um prefixo e um sufixo e adiciona à lista.
 
-
-```bash
+---
 Desenvolvido por Daniel de Lima com intuitos educacionais
-```
+
