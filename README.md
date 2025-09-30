@@ -22,9 +22,10 @@ Um aplicativo simples em **React + Vite** que gera nomes de super-heróis aleat�
 
 ---
 
-```bash
 
 ## Estrutura do Projeto
+
+```bash
 
 src/
 │
@@ -56,7 +57,8 @@ npm run dev
 4. Abra o navegador em:
 http://localhost:5173
 
-Como Funciona a Geração de Nomes
+
+##Como Funciona a Geração de Nomes
 
 O app utiliza duas listas:
 
