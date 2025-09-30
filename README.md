@@ -58,7 +58,7 @@ npm run dev
 http://localhost:5173
 
 
-##Como Funciona a Geração de Nomes
+## Geração de Nomes
 
 O app utiliza duas listas:
 
