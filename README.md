@@ -2,7 +2,7 @@
 
 Um aplicativo simples em **React + Vite** que gera nomes de super-heróis aleatórios.
 
----
+
 
 ## Funcionalidades
 
