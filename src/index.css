@@ -1,0 +1,36 @@
+:root { --bg:#f2f5ff; --card:#fff; --primary:#5a67d8; }
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: var(--bg);
+  color: #222;
+}
+.app {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  background: var(--card);
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+.header { text-align: center; }
+.header h1 { margin: 0; color: var(--primary); }
+.gerador { text-align: center; margin: 20px 0; }
+.gerador button {
+  padding: 12px 20px;
+  background: var(--primary);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform .1s;
+}
+.gerador button:hover { transform: scale(1.05); }
+.listaherois { list-style:none; padding:0; margin:20px 0; display:flex; flex-direction:column; gap:8px; }
+.heroi {
+  display:flex; justify-content:space-between; align-items:center;
+  padding:10px; border:1px solid #ddd; border-radius:8px;
+}
+.deletar { border:none; background:transparent; color:#c33; font-size:1.2rem; cursor:pointer; }
+.empty { text-align:center; color:#666; margin-top:20px; }
