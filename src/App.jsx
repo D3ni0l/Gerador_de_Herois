@@ -7,14 +7,14 @@ import './App.css'
 function App() {
   const [herois, setherois] = useState([])// useState aqui <---------
 
-  // localStorage -> armazenamento 
-  useEffect(() => {
+  
+  useEffect(() => { //useEffect aqui <-----
     const salvar = localStorage.getItem('nome_herois_1')
     if (salvar) setherois(JSON.parse(salvar))
   }, [])
 
-  // salvar
-  useEffect(() => { //useEffect aqui <-----
+ 
+  useEffect(() => { //useEffect aqui denovo <-----
     localStorage.setItem('nome_herois_1', JSON.stringify(herois))
   }, [herois])
 
