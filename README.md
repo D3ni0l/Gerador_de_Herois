@@ -9,7 +9,6 @@ Um aplicativo simples em **React + Vite** que gera nomes de super-heróis aleat�
 - Gerar nomes de super-heróis aleatórios combinando **prefixos** e **sufixos**.
 - Adicionar novos heróis à lista.
 - Remover heróis individualmente.
-- Persistência de dados usando **localStorage**.
 - Interface simples e responsiva com estilo moderno.
 
 ---
@@ -23,6 +22,7 @@ Um aplicativo simples em **React + Vite** que gera nomes de super-heróis aleat�
 
 ---
 
+```bash
 ## Estrutura do Projeto
 src/
 │
@@ -37,6 +37,7 @@ src/
 ├─ index.css # Estilos globais
 └─ App.css # Estilos do app
 
+```
 ---
 
 ## Como Rodar
