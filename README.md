@@ -39,7 +39,7 @@ src/
 ├─ main.jsx # Renderiza o app
 ├─ index.css # Estilos globais
 └─ App.css # Estilos do app
-
+```
 
 
 ## Como Rodar
